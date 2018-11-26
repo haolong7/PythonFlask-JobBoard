@@ -59,7 +59,7 @@ instance/
 # Editors
 .vscode
 .idea
-
+py-flask.code-workspace
 # macOS
 .DS_Store
 
